@@ -3,19 +3,19 @@ name: Aggiorna e Traduci Feed RSS Multipli
 on:
   schedule:
     - cron: '0 */6 * * *'  # Esegue l'aggiornamento ogni 6 ore
-  workflow_dispatch:       # Consente l'avvio manuale tramite pulsante
+  workflow_dispatch:       # Abilita il pulsante per l'avvio manuale
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # Scarica la cronologia completa per evitare conflitti
+          fetch-depth: 0   # Sincronizza tutta la cronologia Git
 
       - name: Configurazione ambiente Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
