@@ -50,6 +50,20 @@ def estrai_articolo_completo(url):
         print(f"Errore scraping {url}: {e}")
         return None
 
+def traduci_sicuro(translator, testo):
+    """Traduce il testo prevenendo errori 500 o blocchi di rete."""
+    if not testo:
+        return ""
+    try:
+        # Pulisce eventuali errori 500 o risposte anomale
+        risultato = translator.translate(testo)
+        if "Error 500" in risultato or "Server Error" in risultato:
+            return testo  # Fallback sul testo originale in caso di errore di Google
+        return risultato
+    except Exception as e:
+        print(f"Avviso traduzione: {e}")
+        return testo
+
 def elabora_singolo_feed(config, translator):
     nome = config["nome"]
     url = config["url"]
@@ -90,7 +104,7 @@ def elabora_singolo_feed(config, translator):
             orig_link = link_elem.text.strip() if link_elem is not None and link_elem.text else "#"
             desc_originale = pulisci_testo(desc_elem.text) if desc_elem is not None and desc_elem.text else ""
 
-            # 1. ESTRAZIONE IMMAGINE PER COPERTINA (ENCLOSURE)
+            # 1. ENCLOSURE PER ANTEPRIMA
             match_img = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', desc_originale, re.IGNORECASE)
             if match_img:
                 for enc in item.findall('enclosure'):
@@ -99,12 +113,9 @@ def elabora_singolo_feed(config, translator):
                 enc_elem.set('url', match_img.group(1))
                 enc_elem.set('type', 'image/jpeg')
 
-            # 2. TRADUZIONE TITOLO
+            # 2. TRADUZIONE TITOLO SICURA
             if title_elem is not None and title_elem.text:
-                try:
-                    title_elem.text = translator.translate(pulisci_testo(title_elem.text))
-                except:
-                    pass
+                title_elem.text = traduci_sicuro(translator, pulisci_testo(title_elem.text))
 
             # 3. SCRAPING E TRADUZIONE TESTO
             testo_grezzo = estrai_articolo_completo(orig_link)
@@ -113,12 +124,11 @@ def elabora_singolo_feed(config, translator):
 
             testo_tradotto = ""
             if testo_grezzo:
-                blocchi = [testo_grezzo[i:i+2500] for i in range(0, len(testo_grezzo), 2500)]
+                # Blocchi da 1500 caratteri per evitare l'Errore 500 di Google
+                blocchi = [testo_grezzo[i:i+1500] for i in range(0, len(testo_grezzo), 1500)]
                 for blocco in blocchi:
-                    try:
-                        testo_tradotto += translator.translate(blocco) + " "
-                    except:
-                        testo_tradotto += blocco + " "
+                    testo_tradotto += traduci_sicuro(translator, blocco) + " "
+                    time.sleep(0.5)
 
             # Video YouTube
             iframes = re.findall(r'<iframe[^>]*>.*?</iframe>|<iframe[^>]*/>', desc_originale, re.IGNORECASE | re.DOTALL)
@@ -131,7 +141,6 @@ def elabora_singolo_feed(config, translator):
                 f"Fonte originale e articolo completo: <a href='{orig_link}' target='_blank' rel='noopener'>{orig_link}</a>.</small></p>"
             )
 
-            # Contenuto HTML formattato
             html_finale = f"{blocco_video}{testo_tradotto.strip()}{dicitura_agcom}"
 
             if desc_elem is not None:
@@ -139,9 +148,16 @@ def elabora_singolo_feed(config, translator):
 
             channel.append(item)
 
-        tree = ET.ElementTree(root)
-        tree.write(file_output, encoding="utf-8", xml_declaration=True)
-        print(f"File '{file_output}' generato con successo.")
+        # Scrittura XML personalizzata per preservare i tag HTML non convertiti
+        xml_str = ET.tostring(root, encoding='utf-8').decode('utf-8')
+        
+        # Sostituisce le entità convertite per restituire HTML puro nell'XML
+        xml_str = xml_str.replace('&lt;', '<').replace('&gt;', '>')
+
+        with open(file_output, 'w', encoding='utf-8') as f:
+            f.write(xml_str)
+            
+        print(f"File '{file_output}' generato correttamente in HTML puro.")
 
     except Exception as e:
         print(f"Errore durante l'elaborazione di {nome}: {e}")
