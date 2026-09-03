@@ -3,7 +3,7 @@ name: Aggiorna e Traduci Feed RSS Multipli
 on:
   schedule:
     - cron: '0 */6 * * *'  # Esegue l'aggiornamento ogni 6 ore
-  workflow_dispatch:       # Abilita il pulsante per l'avvio manuale
+  workflow_dispatch:       # Consente l'avvio manuale tramite pulsante
 
 jobs:
   build:
@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout del repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # Scarica la cronologia completa per evitare conflitti
 
       - name: Configurazione ambiente Python
         uses: actions/setup-python@v4
@@ -31,4 +33,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add *.xml
           git commit -m "Aggiornamento automatico feed XML tradotti" || exit 0
+          git pull --rebase origin main
           git push
