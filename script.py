@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET
 import requests
 from bs4 import BeautifulSoup
-from readability import Document
 from deep_translator import GoogleTranslator
 import re
 import time
@@ -19,15 +18,10 @@ CONFIG_FEED = [
         "output": "nintendo_life.xml",
         "parole_chiave": []
     },
-    {
-        "nome": "Eurogamer",
-        "url": "https://www.eurogamer.net/feed/news",
-        "output": "eurogamer.xml",
-        "parole_chiave": []
-    }
+
 ]
 
-MAX_ARTICOLI = 3  # Limite ridotto a 3 per eseguire il test rapido in pochi secondi
+MAX_ARTICOLI = 20
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -37,30 +31,6 @@ def pulisci_testo(testo):
     if not testo:
         return ""
     return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', testo).strip()
-
-def estrai_articolo_readability(url):
-    """Estrazione dell'articolo completo tramite algoritmo Readability."""
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=12)
-        if res.status_code != 200:
-            return None
-        
-        doc = Document(res.text)
-        html_articolo = doc.summary()
-        
-        soup = BeautifulSoup(html_articolo, 'html.parser')
-        
-        for elem in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form']):
-            elem.decompose()
-
-        paragrafi = [p.get_text().strip() for p in soup.find_all('p') if len(p.get_text().strip()) > 20]
-        testo_completo = "<br><br>".join(paragrafi)
-        
-        return testo_completo if len(testo_completo) > 100 else None
-
-    except Exception as e:
-        print(f"Errore Readability su {url}: {e}")
-        return None
 
 def traduci_sicuro(translator, testo):
     if not testo:
@@ -80,7 +50,7 @@ def elabora_singolo_feed(config, translator):
     file_output = config["output"]
     parole_chiave = config["parole_chiave"]
 
-    print(f"--- TEST IN CORSO: Processing Readability Full-Text per {nome} ---")
+    print(f"--- Generazione Schede News Veloci per: {nome} ---")
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
@@ -114,7 +84,7 @@ def elabora_singolo_feed(config, translator):
             orig_link = link_elem.text.strip() if link_elem is not None and link_elem.text else "#"
             desc_originale = pulisci_testo(desc_elem.text) if desc_elem is not None and desc_elem.text else ""
 
-            # 1. ENCLOSURE PER ANTEPRIMA FEEDZY
+            # 1. ENCLOSURE PER ANTEPRIMA / IMMAGINE IN EVIDENZA
             match_img = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', desc_originale, re.IGNORECASE)
             if match_img:
                 for enc in item.findall('enclosure'):
@@ -127,46 +97,53 @@ def elabora_singolo_feed(config, translator):
             if title_elem is not None and title_elem.text:
                 title_elem.text = traduci_sicuro(translator, pulisci_testo(title_elem.text))
 
-            # 3. EXTRAZIONE FULL-TEXT E TRADUZIONE
-            testo_grezzo = estrai_articolo_readability(orig_link)
-            if not testo_grezzo:
-                testo_grezzo = re.sub(r'<[^>]*>?', '', desc_originale).strip()
-
-            testo_tradotto = ""
-            if testo_grezzo:
-                blocchi = [testo_grezzo[i:i+1500] for i in range(0, len(testo_grezzo), 1500)]
-                for blocco in blocchi:
-                    testo_tradotto += traduci_sicuro(translator, blocco) + " "
-                    time.sleep(0.4)
-
-            # Preserva iframe video YouTube
-            iframes = re.findall(r'<iframe[^>]*>.*?</iframe>|<iframe[^>]*/>', desc_originale, re.IGNORECASE | re.DOTALL)
+            # 3. PULIZIA E TRADUZIONE DELL'ESTRATTO SINTETICO
+            soup_desc = BeautifulSoup(desc_originale, 'html.parser')
+            
+            # Preserva iframe di eventuali video YouTube allegati nell'RSS
+            iframes = [str(iframe) for iframe in soup_desc.find_all('iframe')]
             blocco_video = "".join(iframes) + "<br><br>" if iframes else ""
 
-            # Dicitura trasparenza AGCOM e Fonte
-            dicitura_agcom = (
-                f"<br><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> "
-                f"Contenuto tradotto automaticamente per la community italiana a scopo informativo. "
-                f"Fonte originale e articolo completo: <a href='{orig_link}' target='_blank' rel='noopener'>{orig_link}</a>.</small></p>"
+            # Estrae solo il testo senza tag HTML per una traduzione pulita
+            testo_estratto_grezzo = soup_desc.get_text().strip()
+            testo_estratto_tradotto = traduci_sicuro(translator, testo_estratto_grezzo)
+
+            # 4. BOX GRAFICO CON INVITO ALLA LETTURA SULLA FONTE UFFICIALE
+            box_invito_fonte = (
+                f"<br><br>"
+                f"<div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'>"
+                f"<p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p>"
+                f"<p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: "
+                f"<a href='{orig_link}' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su {nome} &raquo;</strong></a></p>"
+                f"</div>"
             )
 
-            html_finale = f"{blocco_video}{testo_tradotto.strip()}{dicitura_agcom}"
+            # 5. DICITURA TRASPARENZA AGCOM OBBILGATORIA
+            dicitura_agcom = (
+                f"<br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> "
+                f"Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. "
+                f"Fonte originale: <a href='{orig_link}' target='_blank' rel='noopener'>{orig_link}</a>.</small></p>"
+            )
+
+            # Composizione HTML finale dell'articolo
+            html_finale = f"{blocco_video}<p>{testo_estratto_tradotto}</p>{box_invito_fonte}{dicitura_agcom}"
 
             if desc_elem is not None:
                 desc_elem.text = html_finale
 
             channel.append(item)
 
+        # Scrittura XML con estrazione tag HTML pulita
         xml_str = ET.tostring(root, encoding='utf-8').decode('utf-8')
         xml_str = xml_str.replace('&lt;', '<').replace('&gt;', '>')
 
         with open(file_output, 'w', encoding='utf-8') as f:
             f.write(xml_str)
             
-        print(f"File '{file_output}' generato con successo.")
+        print(f"File '{file_output}' generato con successo (Formato Scheda News).")
 
     except Exception as e:
-        print(f"Errore durante il test di {nome}: {e}")
+        print(f"Errore durante la generazione per {nome}: {e}")
 
 def main():
     translator = GoogleTranslator(source='auto', target='it')
