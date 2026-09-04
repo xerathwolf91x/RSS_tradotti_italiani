@@ -18,10 +18,16 @@ CONFIG_FEED = [
         "url": "https://www.nintendolife.com/feeds/news",
         "output": "nintendo_life.xml",
         "parole_chiave": []
+    },
+    {
+        "nome": "Eurogamer",
+        "url": "https://www.eurogamer.net/feed/news",
+        "output": "eurogamer.xml",
+        "parole_chiave": []
     }
 ]
 
-MAX_ARTICOLI = 5
+MAX_ARTICOLI = 3  # Limite ridotto a 3 per eseguire il test rapido in pochi secondi
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -33,19 +39,17 @@ def pulisci_testo(testo):
     return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', testo).strip()
 
 def estrai_articolo_readability(url):
-    """Estrazione avanzata dell'articolo completo tramite algoritmo Readability."""
+    """Estrazione dell'articolo completo tramite algoritmo Readability."""
     try:
         res = requests.get(url, headers=HEADERS, timeout=12)
         if res.status_code != 200:
             return None
         
-        # Isola il corpo dell'articolo principale bypassando menu e sidebar
         doc = Document(res.text)
         html_articolo = doc.summary()
         
         soup = BeautifulSoup(html_articolo, 'html.parser')
         
-        # Elimina script o elementi accessori
         for elem in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form']):
             elem.decompose()
 
@@ -76,7 +80,7 @@ def elabora_singolo_feed(config, translator):
     file_output = config["output"]
     parole_chiave = config["parole_chiave"]
 
-    print(f"--- Processamento Readability Full-Text: {nome} ---")
+    print(f"--- TEST IN CORSO: Processing Readability Full-Text per {nome} ---")
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
@@ -123,7 +127,7 @@ def elabora_singolo_feed(config, translator):
             if title_elem is not None and title_elem.text:
                 title_elem.text = traduci_sicuro(translator, pulisci_testo(title_elem.text))
 
-            # 3. ESTRAZIONE FULL-TEXT VIA READABILITY & TRADUZIONE
+            # 3. EXTRAZIONE FULL-TEXT E TRADUZIONE
             testo_grezzo = estrai_articolo_readability(orig_link)
             if not testo_grezzo:
                 testo_grezzo = re.sub(r'<[^>]*>?', '', desc_originale).strip()
@@ -159,10 +163,10 @@ def elabora_singolo_feed(config, translator):
         with open(file_output, 'w', encoding='utf-8') as f:
             f.write(xml_str)
             
-        print(f"File '{file_output}' generato con estrazione Readability Full-Text.")
+        print(f"File '{file_output}' generato con successo.")
 
     except Exception as e:
-        print(f"Errore durante l'elaborazione di {nome}: {e}")
+        print(f"Errore durante il test di {nome}: {e}")
 
 def main():
     translator = GoogleTranslator(source='auto', target='it')
