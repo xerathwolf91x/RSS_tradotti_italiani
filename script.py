@@ -19,6 +19,13 @@ CONFIG_FEED = [
         "parole_chiave": []
     },
 
+    {
+        "nome": "PokèmonBlog",
+        "url": "https://pokemonblog.com/feed/",
+        "output": "pokemonblog.xml",
+        "parole_chiave": []
+    },
+    
 ]
 
 MAX_ARTICOLI = 20
