@@ -5,7 +5,7 @@
 		<description />
 		<language>en-US</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 06 Sep 2026 12:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 06 Sep 2026 18:00:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 06 Sep 2026 13:00:00 GMT</pubDate>
+			<title>Civilization VII Unveils First Expansion "Earthrise" And Major Free Update</title>
+			<description><p>Prepare for liftoff in 2027.Sid Meier’s Civilization VII is currently celebrating 35 years of the series and developer Firaxis Games has shared a preview of what's ahead.In 2027, fans can look forward to Arc of Tomorrow - a free update for all Civ VII players introducing the Atomic Age and extending the game's playable span of history from the 1950s to 2050s.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/civilization-vii-unveils-first-expansion-earthrise-and-major-free-update' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/civilization-vii-unveils-first-expansion-earthrise-and-major-free-update' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/civilization-vii-unveils-first-expansion-earthrise-and-major-free-update</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-205971</guid>
+			<link>https://www.nintendolife.com/news/2026/09/civilization-vii-unveils-first-expansion-earthrise-and-major-free-update</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/64c4825b07f08/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/64c4825b07f08/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
 			<title>Poll: Box Art Brawl - Duel: Castlevania: Belmont's Curse (Switch)</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/castlevania-belmonts-curse-trailer-will-give-veteran-fans-goosebumps</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/0f8b55a8c3321/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/0f8b55a8c3321/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 03 Sep 2026 19:00:00 GMT</pubDate>
-			<title>Nintendo Download: 3rd September (North America)</title>
-			<description><p>Orbitals! Onimusha! Valheim!The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!Switch 2 eShop - HighlightsOrbitals (Kepler Interactive, 3rd Sep, $39.99) - Blast off with Maki and Omura as they brave the deadly Storm Wall and the perils beyond to save their home. This intergalactic two-player co-op adventure set in a retro anime-inspired universe rewards smart teamwork and clear communication. - Read our Orbitals reviewRead the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/nintendo-download-3rd-september-north-america' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/nintendo-download-3rd-september-north-america' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/nintendo-download-3rd-september-north-america</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-205831</guid>
-			<link>https://www.nintendolife.com/news/2026/09/nintendo-download-3rd-september-north-america</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/ba5a2fdfe7363/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/ba5a2fdfe7363/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
