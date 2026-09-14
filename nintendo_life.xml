@@ -5,7 +5,7 @@
 		<description />
 		<language>en-US</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Mon, 14 Sep 2026 00:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 14 Sep 2026 06:05:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Mon, 14 Sep 2026 05:00:00 GMT</pubDate>
+			<title>Diablo IV Reveals What's Next - 30th Anniversary Diablo Celebration, Amazon Class &amp; Future Seasons</title>
+			<description><p>The new season launches alongside the Switch 2 release.The Diablo team held a panel about "what's next" for Diablo IV at day two of BlizzCon 2026 and it covered the latest season, future seasons and the Amazon Class coming to the game.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/diablo-iv-reveals-whats-next-30th-anniversary-diablo-celebration-amazon-class-and-future-seasons' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/diablo-iv-reveals-whats-next-30th-anniversary-diablo-celebration-amazon-class-and-future-seasons' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/diablo-iv-reveals-whats-next-30th-anniversary-diablo-celebration-amazon-class-and-future-seasons</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206269</guid>
+			<link>https://www.nintendolife.com/news/2026/09/diablo-iv-reveals-whats-next-30th-anniversary-diablo-celebration-amazon-class-and-future-seasons</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/0e57001cbbd80/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/0e57001cbbd80/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 13 Sep 2026 17:00:00 GMT</pubDate>
 			<title>Diablo IV x The Witcher III: Wild Hunt Collab Unveiled, Here's A First Look</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/nintendo-wins-court-case-ruling-the-sale-of-switch-circumvention-devices-unlawful</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/f570806f4b82a/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/f570806f4b82a/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
-			<title>Guide: Where To Pre-Order Metroid Ravenous For Switch 2, The Special Edition &amp; amiibo</title>
-			<description><p>Update: Special Edition available from Very (UK).The rumours were true and the next '2D' game in the Metroid series is coming on 28th January 2027.Metroid Ravenous is a Switch 2 exclusive continuing Samus' story after 2021's Metroid Dread and sees the bounty hunter devouring enemies in an "eat or be eaten" scenario. Sounds fun!Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/guides/where-to-pre-order-metroid-ravenous-for-switch-2-the-special-edition-and-amiibo' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/guides/where-to-pre-order-metroid-ravenous-for-switch-2-the-special-edition-and-amiibo' target='_blank' rel='noopener'>https://www.nintendolife.com/guides/where-to-pre-order-metroid-ravenous-for-switch-2-the-special-edition-and-amiibo</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206131</guid>
-			<link>https://www.nintendolife.com/guides/where-to-pre-order-metroid-ravenous-for-switch-2-the-special-edition-and-amiibo</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/d91c697259d79/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/d91c697259d79/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
