@@ -5,7 +5,7 @@
 		<description />
 		<language>en-US</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 20 Sep 2026 12:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 20 Sep 2026 18:05:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 20 Sep 2026 16:00:00 GMT</pubDate>
+			<title>Dynasty Warriors 3: Complete Edition Remastered Demo &amp; Online Two-Player Post-Launch Update Announced</title>
+			<description><p>The full game launches next month.Another demo is en route to the Switch 2, with Koei Tecmo today announcing fans of the Dynasty Warriors series will be able to try out Dynasty Warriors 3: Complete Edition before its official release.The demo for this "thrilling" tactical action is arriving next week on 24th September 2026, with the full game launching on 1st October 2026.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206563</guid>
+			<link>https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-demo-and-online-two-player-post-launch-update-announced</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/ca1b5a106b41a/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/ca1b5a106b41a/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sun, 20 Sep 2026 13:00:00 GMT</pubDate>
+			<title>Splatoon Raiders Dev Team Apparently Has No Plans For DLC</title>
+			<description><p>Or updates related to game balance.If you've been wondering about Splatoon Raiders getting any DLC in the future, there's supposedly nothing on the menu right now.Speaking to Famitsu recently, the game's producer Seita Inoue says there are currently no plans for DLC, or updates related to game balance, as this title is designed to be a complete and self-contained experience. About the most players can apparently expect in the immediate future would be fixes for any bugs discovered.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206566</guid>
+			<link>https://www.nintendolife.com/news/2026/09/splatoon-raiders-dev-team-apparently-has-no-plans-for-dlc</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/984349a594fd3/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/984349a594fd3/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
 			<title>Mailbox: Wordcrafting, Backtracking, One-Handed Titles - Nintendo Life Letters</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/disaster-very-cancels-loads-of-metroid-ravenous-special-edition-pre-orders</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/3c06c65d68f3f/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/3c06c65d68f3f/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 18 Sep 2026 10:00:00 GMT</pubDate>
-			<title>Japanese Console Market Would Have Been "Eliminated" If Switch Failed, Says Analyst</title>
-			<description><p>A silent guardian, a watchful protector... A Nintendo Switch.We're all aware of just how successful the Switch has been since its launch in 2017. The latest figures put it at a total of 156.59 million units sold worldwide, which means that had Sony not managed to find some extra PS2 sales down the back of the couch in 2024, the Switch would be the best-selling console of all time. Alas, Sony added 5 million to the PS2's sales, totalling 160 million – boo.In a new interview with analyst Dr. Serkan Toto over at The Game Business, however, the Switch may have actually saved the Japanese console market from extinction. Essentially, had the Switch failed in a manner comparable to the Wii U, then Japanese gamers may have gravitated even further to mobile gaming and PC.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206510</guid>
-			<link>https://www.nintendolife.com/news/2026/09/japanese-console-market-would-have-been-eliminated-if-switch-failed-says-analyst</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/f2a27162dc154/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/f2a27162dc154/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 18 Sep 2026 09:15:00 GMT</pubDate>
-			<title>Random: Fire Emblem: Fortune's Weave Switch 2 Physical Hides A Neat Nod To Three Houses</title>
-			<description><p>Follow the Leda.Fire Emblem: Fortune's Weave is finally here! We're sure that many of you will have been diving into Intelligent Systems' beefy new entry in the RPG series already, but how many of you picked up a physical copy? And those who did, did you notice the Three Houses callback?As brought to our attention by the wonderful Jon Cartwright (formerly of this parish), the new Switch 2 physical's inner design is borrowing more than a little from its spiritual predecessor.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206513</guid>
-			<link>https://www.nintendolife.com/news/2026/09/random-fire-emblem-fortunes-weave-switch-2-physical-hides-a-neat-nod-to-three-houses</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/a9b24bcea4c6d/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/a9b24bcea4c6d/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
