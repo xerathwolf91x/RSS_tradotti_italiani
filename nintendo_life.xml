@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 26 Sep 2026 12:05:10 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2026 18:05:03 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 26 Sep 2026 17:00:00 GMT</pubDate>
+			<title>Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?</title>
+			<description><p>Cavern club.We are one week closer to the 5th November launch of Ocarina of Time on Switch 2, so that means it's time for my second replay catch-up.For those who missed my adventures Inside the Great Deku Tree last week, I'm replaying the original OoT, one dungeon each week, in the run-up to launch. This time, it's Death Mountain's turn.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump' target='_blank' rel='noopener'>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206727</guid>
+			<link>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/a8410a5467625/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/a8410a5467625/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sat, 26 Sep 2026 14:00:00 GMT</pubDate>
+			<title>Interview: "We're Not Making A Party Game Now, It's More Of An Evening Thing" - Ghost Town Is Moving On From Overcooked</title>
+			<description><p>"I absolutely love Luigi's Mansion!".We've all experienced a game-induced argument over the years, and for most of us here at Nintendo Life Towers, Ghost Town Games is to thank.This is the developer that brought us Overcooked and subsequently awakened a Michelin-star chef in each of us, barking out orders at our friends and significant others as if Anton Ego himself was waiting at the door, demanding to be fed.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked' target='_blank' rel='noopener'>https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206400</guid>
+			<link>https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/5aa975fd27eeb/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/5aa975fd27eeb/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 26 Sep 2026 11:00:00 GMT</pubDate>
 			<title>Anniversary: Castlevania Changed The Shape Of Gaming 40 Years Ago</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/7c1d2832115e9/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/7c1d2832115e9/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-			<title>Book Review: Aliens: The Video Games - A Detailed Dive Into Xeno Adaptations</title>
-			<description><p>I admire its purity.It’s easy to forget just how many Aliens games have been made over the years. You’d be forgiven for wondering whether there are actually enough to warrant an entire book, but at 176 pages, Mike Diver’s Aliens: The Video Games covers just about everything, from an unlicensed 1981 Commodore PET title right up to the anticipated release of Alien: Isolation 2. Yes, Fireteam Elite 2 is missing, but it was announced long after the book’s completion. You can’t have everything.Much like Perfect Organism from Andy Kelly (who provides the foreword for this one), Diver's authority and high regard for the franchise is clear. His knowledge of the games shines on every page, and he demonstrates a keen eye for research, with relevant quotes from developers to add welcome texture.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations' target='_blank' rel='noopener'>https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206708</guid>
-			<link>https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/afc2c876bcd27/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/afc2c876bcd27/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 15:15:00 GMT</pubDate>
-			<title>Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale</title>
-			<description><p>TOEM 2! Garfield! Mr. Do!The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!Switch 2 eShop - HighlightsEA SPORTS FC 27 (Electronic Arts, 25th Sep, $69.99) – Welcome to The World’s Game. Step into The Grounds, a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. Feel greater control in every game mode with more fluid gameplay, featuring dynamic corners, enhanced attacking awareness, player-focused defending tailored for competitive play, and more community-driven innovations. - Read our EA SPORTS FC 27Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206736</guid>
-			<link>https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/8923e4a51eba7/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/8923e4a51eba7/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
