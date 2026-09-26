@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 26 Sep 2026 00:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2026 06:05:04 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 26 Sep 2026 01:55:00 GMT</pubDate>
+			<title>"And, Now... An Evil Has Appeared" - Nintendo Releases Extended Zelda: Ocarina Of Time Switch 2 Clip</title>
+			<description><p>Here's another look at Ganondorf.Nintendo has already released a trailer for The Legend of Zelda: Ocarina of Time, but if you are hungry for more footage, it's now shared an extended clip focused on Ganondorf.This video has been uploaded on the Nintendo Today! mobile app, and shows Link's encounter with him. Nintendo has also shared comparison videos alongside this, featuring direct footage of the N64 and 3DS versions of Ocarina of Time.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206863</guid>
+			<link>https://www.nintendolife.com/news/2026/09/and-now-an-evil-has-appeared-nintendo-releases-extended-zelda-ocarina-of-time-switch-2-clip</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/60dda0d0c3352/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/60dda0d0c3352/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sat, 26 Sep 2026 00:55:00 GMT</pubDate>
+			<title>Video: Digital Foundry Delivers Its Tech Analysis Of Fire Emblem: Fortune's Weave</title>
+			<description><p>Fire Emblem's dedicated Switch 2 release is here.Intelligent Systems' turn-based tactical RPG Fire Emblem: Fortune's Weave launched on Switch 2 last week and Digital Foundry has now taken a quick look at how it performs on Nintendo's new hybrid system.The new entry runs at a "locked" 30fps. Although this falls short of other first-party titles on Switch 2 (with games such as Mario Kart World running at 60fps), it's still described as being an improvement on the Switch title Fire Emblem Engage, with "no drops".Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206862</guid>
+			<link>https://www.nintendolife.com/news/2026/09/video-digital-foundry-delivers-its-tech-analysis-of-fire-emblem-fortunes-weave</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/a088109578477/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/a088109578477/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Fri, 25 Sep 2026 23:00:00 GMT</pubDate>
 			<title>Hell Is Us Shifts Switch 2 Launch Due To "Very Busy" September Release Window</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/rumour-zelda-movie-rumblings-suggest-a-first-trailer-might-be-around-the-corner</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/b0a4c45e4446d/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/b0a4c45e4446d/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 11:35:00 GMT</pubDate>
-			<title>Quick! Switch 2 Consoles Have Just Been Heavily Discounted In The UK</title>
-			<description><p>Now's the time to pounce.Earlier this year, Nintendo increased the price of the Switch 2 across multiple regions, including the UK. While the console launched at £395.99 back in June 2025, its price was raised to £419.99 thanks to global component shortages.Right now, however, you can pick up a Switch 2 for £354.99 from either Argos or Smyths in the UK. This is comfortably the cheapest price you can currently find for the console anywhere in the country, saving you a cool £65 – enough to add a game of your choice, if you wish.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206769</guid>
-			<link>https://www.nintendolife.com/news/2026/09/quick-switch-2-consoles-have-just-been-heavily-discounted-in-the-uk</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/6a97cd86347a1/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/6a97cd86347a1/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 11:15:00 GMT</pubDate>
-			<title>One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users</title>
-			<description><p>But only until 30th Sep.Nintendo has announced that Prince of Persia: The Lost Crown is the latest title to receive a free trial for Switch Online subscribers.Available in both North America and Europe, you can download the full game from the eShop at no extra cost, with availability lasting until 30th September 2026. Save data will also be stored, so if you decide you want to go ahead and purchase the game outright, you can carry on from where you left off.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206765</guid>
-			<link>https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/0b1207e81e8a4/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/0b1207e81e8a4/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
