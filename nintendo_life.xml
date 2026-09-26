@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Fri, 25 Sep 2026 18:05:02 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2026 00:05:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Fri, 25 Sep 2026 23:00:00 GMT</pubDate>
+			<title>Hell Is Us Shifts Switch 2 Launch Due To "Very Busy" September Release Window</title>
+			<description><p>Update: Delayed again, arriving alongside "major update".:Nacon's upcoming Switch 2 game Hell Is Us, which has received "very positive" ratings on platforms like Steam and was praised by our colleagues at Push Square as a "must-play" for fans of lore-filled mystery, is shifting its release date by two weeks.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-203625</guid>
+			<link>https://www.nintendolife.com/news/2026/09/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/769e9293e423f/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/769e9293e423f/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Fri, 25 Sep 2026 16:30:00 GMT</pubDate>
 			<title>Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/0b1207e81e8a4/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/0b1207e81e8a4/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 10:30:00 GMT</pubDate>
-			<title>1080° Snowboarding Had "A Ton Of Questionable Stuff" Removed, Says Veteran Nintendo Producer</title>
-			<description><p>See, now we want to know more.1080° Snowboarding is one of the most commercially successful and critically acclaimed N64 titles, bringing gorgeous visuals, realistic gameplay, and some kick-ass music to the console, making it one of the coolest titles around at the time.In an interview with Hyrule Interviews, however, veteran Nintendo producer and graphic designer Jim Wornell states that the game actually had "a ton of questionable stuff" removed in order to clear certification.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206747</guid>
-			<link>https://www.nintendolife.com/news/2026/09/1080d-snowboarding-had-a-ton-of-questionable-stuff-removed-says-veteran-nintendo-producer</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/d9b55a6465497/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/d9b55a6465497/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
