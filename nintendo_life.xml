@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 27 Sep 2026 06:05:04 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 12:05:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
+			<title>Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons</title>
+			<description><p>Voidco.With the price of consoles, controllers, games, groceries — everything — shooting up over the last few years, you're likely keen to save pennies where you can. It's one thing to push the boat out for a new Switch 2, but add-ons and accessories can stretch budgets to breaking point. Is a $90 / £75 Pro Controller 2 really an essential purchase when your old Switch 1 Pro Controller is working just fine?Justifying that sort of money (or more if you want that fancy new Zelda one) might be tough, but what if you could upgrade your old Pro Controller with back buttons and broader functionality, and throw some analogue triggers into the bargain? That's what JSAUX is proposing with the Voidjoy Elite Extender, an add-on which attempts to give your old Pro a glow-up into something resembling other premium pads.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons' target='_blank' rel='noopener'>https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-205822</guid>
+			<link>https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/ce693779a5ae0/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/ce693779a5ae0/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sun, 27 Sep 2026 09:00:00 GMT</pubDate>
+			<title>Feature: Box Art Brawl - Duel: Dragon Quest II (NES)</title>
+			<description><p>The quest continues.Strap in, because it's time for another edition of Box Art Brawl!Last time, we put the GameCube curio Cubivore: Survival of the Fittest into the ring, with a 1v1 match-up between North America and Japan. While the latter put up a pretty good fight, it was NA that walked away with 63% of the vote and the win.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes' target='_blank' rel='noopener'>https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206817</guid>
+			<link>https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/0869c30e2ca36/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/0869c30e2ca36/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 27 Sep 2026 03:00:00 GMT</pubDate>
 			<title>Poll: So, How Many Hours Have You Spent In Fire Emblem: Fortune's Weave?</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/square-enix-shows-off-exclusive-sleeve-for-dragon-quest-xi-s-on-switch-2</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/aeeef9725d40e/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/aeeef9725d40e/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 25 Sep 2026 04:55:00 GMT</pubDate>
-			<title>Rumour: New Leak Suggests Professor Layton And Phoenix Wright's 3DS Crossover Is Returning</title>
-			<description><p>"Every puzzle has an answer".Phoenix Wright celebrates his 25th anniversary next month, and Professor Layton is also returning in a new outing later this year.On top of this, rumours about the 3DS title Professor Layton vs. Phoenix Wright: Ace Attorney getting a modern release are now doing the rounds online.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206808</guid>
-			<link>https://www.nintendolife.com/news/2026/09/rumour-new-leak-suggests-professor-layton-and-phoenix-wrights-3ds-crossover-is-returning</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/5e9cfe52d018e/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/5e9cfe52d018e/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 25 Sep 2026 03:30:00 GMT</pubDate>
-			<title>"So Long, Sweet Prince" - Ubisoft's Rogue Prince Of Persia Game Rolls Out Its Final Update</title>
-			<description><p>Developer Evil Empire says it's been "one hell of a run".If you haven't already had enough news related to Ubisoft for one day, here's a story tied to the Prince of Persia series.Following a free "first anniversary" update for Rogue Prince of Persia last week, developer Evil Empire has now revealed this was actually the "final update" for the title. There were originally "two updates" planned, but these ideas were merged into one.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206807</guid>
-			<link>https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/eba7bac85cff2/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/eba7bac85cff2/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
