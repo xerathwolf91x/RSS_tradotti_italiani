@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 27 Sep 2026 00:05:04 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 06:05:04 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 27 Sep 2026 03:00:00 GMT</pubDate>
+			<title>Poll: So, How Many Hours Have You Spent In Fire Emblem: Fortune's Weave?</title>
+			<description><p>Only a handful of players have shared their completion times.RPGs often require players to invest a lot of their time, and the Switch 2 exclusive Fire Emblem: Fortune's Weave is no different.In fact, the newest chapter in Intelligent Systems' tactical turn-based series is apparently so big that even a week after this title's release, the website 'How Long To Beat' still has little to no playtime data about the title.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206874</guid>
+			<link>https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/b02bfe571ffe1/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/b02bfe571ffe1/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sun, 27 Sep 2026 01:00:00 GMT</pubDate>
+			<title>ICYMI: Here's A Look At Rayman's Legends Retold Launch Edition</title>
+			<description><p>Just don't expect a proper game card.Rayman is back this December in Rayman Legends Retold, and in case you missed it, the launch edition includes some extra goodies.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206868</guid>
+			<link>https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-raymans-legends-retold-launch-edition</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/64eff25466aec/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/64eff25466aec/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 26 Sep 2026 23:00:00 GMT</pubDate>
 			<title>Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/so-long-sweet-prince-ubisofts-rogue-prince-of-persia-game-rolls-out-its-final-update</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/eba7bac85cff2/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/eba7bac85cff2/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 25 Sep 2026 02:05:00 GMT</pubDate>
-			<title>"The Switch 2 Build Is Not Where We Want It To Be" - RuneScape: Dragonwilds Team Promises To Deliver Visual Improvements</title>
-			<description><p>Expect "incremental" changes going forward.Last week, the RuneScape team Jagex released its new open-world survival game RuneScape: Dragonwilds on Switch 2.We reported earlier this week how many players were experiencing blurry visuals with this version of the game, and the British developer has now acknowledged these problems in a lengthy message to the game's community.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206806</guid>
-			<link>https://www.nintendolife.com/news/2026/09/the-switch-2-build-is-not-where-we-want-it-to-be-runescape-dragonwilds-team-promises-to-deliver-visual-improvements</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/0c45e9b01aa30/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/0c45e9b01aa30/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 25 Sep 2026 00:55:00 GMT</pubDate>
-			<title>Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf</title>
-			<description><p>What if?A new "exclusive" report from Insider Gaming's Tom Henderson has supposedly lifted the lid on a Ubisoft Zelda project that never saw the light of day.The story, which is based on "reporting conducted over more than 18 months" and has been "independently corroborated", claims Ubisoft Milan (the Mario + Rabbids studio) pitched a Zelda spin-off featuring a "previously unknown protagonist". Nintendo apparently liked the concept but told Ubisoft to replace the character with Ganondorf.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206805</guid>
-			<link>https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/1144f8f7fe304/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/1144f8f7fe304/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
