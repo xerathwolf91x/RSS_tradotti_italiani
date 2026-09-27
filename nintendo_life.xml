@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 26 Sep 2026 18:05:03 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 27 Sep 2026 00:05:04 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 26 Sep 2026 23:00:00 GMT</pubDate>
+			<title>Surprise! Minecraft Is Getting Its First New Dimension In Over 14 Years</title>
+			<description><p>Introducing The Sift!The Minecraft Live - September 2026 show just wrapped, and it's been revealed the "first new dimension in over 14 years" is joining the Overworld, the Nether, and the End as the fourth dimension in the game.The Sift was previously revealed for Minecraft Dungeons II, and Mojang has now confirmed it will be coming to Minecraft Bedrock (and the Java Edition) next year.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206873</guid>
+			<link>https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/8ffebddaebcb9/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/8ffebddaebcb9/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 26 Sep 2026 17:00:00 GMT</pubDate>
 			<title>Countdown: Zelda: Ocarina Of Time Dungeon Crawl #2 - A Sophomore Slump?</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/1144f8f7fe304/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/1144f8f7fe304/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 24 Sep 2026 18:00:00 GMT</pubDate>
-			<title>Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget</title>
-			<description><p>(If you consider $300 glasses to be cheap, that is...).While many people were confident that XR glasses were nothing but a fad, the market for this tech appears to have grown over the past couple of years, and it's not hard to see why.These glasses are now lightweight enough to wear comfortably, and the tiny screens inside are sharp and bright, which finally means they can truly live up to the promise of delivering a big-screen experience without the need for an insanely expensive TV.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget' target='_blank' rel='noopener'>https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206723</guid>
-			<link>https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/7c1d2832115e9/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/7c1d2832115e9/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
