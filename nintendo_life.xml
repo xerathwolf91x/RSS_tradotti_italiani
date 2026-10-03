@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 03 Oct 2026 14:50:01 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Oct 2026 20:20:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 03 Oct 2026 15:00:00 GMT</pubDate>
+			<title>Feature: The Results Of Our 2026 Switch 2 Summer Survey Are In</title>
+			<description><p>Fingers crossed for a Kid Icarus revival.Back in August, we posed 64 gaming-related questions to Nintendo Life readers in our Switch 2 Summer Survey. Topics included gaming habits, thoughts on Switch 2 and its software lineup, how you buy games in 2026, and other questions covering how you get your daily dose of Nintendo goodness on this here website and beyond.We did the same in 2024 to get a better idea of the state of all things Nintendo, but having now spent well over a year with Nintendo's newest hardware, we wanted to get your thoughts on Switch 2 and your hopes for the future.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in' target='_blank' rel='noopener'>https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206639</guid>
+			<link>https://www.nintendolife.com/features/the-results-of-our-2026-switch-2-summer-survey-are-in</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/37291e6340d91/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/37291e6340d91/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 03 Oct 2026 10:00:00 GMT</pubDate>
 			<title>Random: Tough Week? Grab Yourself A Brew &amp; Get These Immaculate Zelda Tunes On Your Playlist, Pronto</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/97790b3022978/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/97790b3022978/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 01 Oct 2026 12:30:00 GMT</pubDate>
-			<title>Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?</title>
-			<description><p>Dracu-lotta fun?So, ahead of its full release on 15th October 2026, Castlevania: Belmont's Curse just got a free demo on Switch, so you can try out the opening section of the game and see if it's up to scratch.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo' target='_blank' rel='noopener'>https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207086</guid>
-			<link>https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/a973583cab35d/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/a973583cab35d/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
