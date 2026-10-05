@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Mon, 05 Oct 2026 13:04:59 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 23:30:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Mon, 05 Oct 2026 16:30:00 GMT</pubDate>
+			<title>"I Wanted To Challenge Myself" - Former WarioWare Director Talks Life After Nintendo</title>
+			<description><p>Wario Where?Earlier this year, Nintendo veteran and WarioWare legend Goro Abe announced that he was leaving the company and taking up a teaching post at the Osaka Electro-Communication University. Roughly seven months on, VGC got the chance to chat with the dev about his post-Nintendo life, and, rather expectedly, games are still very much on his mind.“Making games takes a lot of time, and I knew that based on my age and career that I could not make that many more games in the future,” Abe told VGC. “And I wanted to challenge myself to do other stuff. So I thought it would be interesting to do things that I had never done before, and that’s why I decided to go into teaching.”Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207233</guid>
+			<link>https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/67af0862235a4/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/67af0862235a4/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Mon, 05 Oct 2026 15:45:00 GMT</pubDate>
+			<title>Zelda: Majora's Mask Soundtrack Joins Nintendo Music This Week</title>
+			<description><p>Termina beckons.Nintendo is ramping up its Zelda 40th Anniversary celebrations with a few new initiatives for the N64's Majora's Mask.First up, and what is undoubtedly the highlight for us, is the addition of the original soundtrack on Nintendo Music. Nintendo states that this will be added on Friday, 9th October in Japan, so it's likely that it will drop on Thursday in western regions.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207237</guid>
+			<link>https://www.nintendolife.com/news/2026/10/zelda-majoras-mask-soundtrack-joins-nintendo-music-this-week</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/5bcf495743206/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/5bcf495743206/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Mon, 05 Oct 2026 12:30:00 GMT</pubDate>
 			<title>PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/cc53314210756/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/cc53314210756/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 02 Oct 2026 15:30:00 GMT</pubDate>
-			<title>Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027</title>
-			<description><p>"the supply-demand environment is only getting tighter".If you were perhaps hoping that the ongoing memory crisis would abate in the coming months, we have some unfortunate news for you.As reported by The Register, memory shortages are set to get even worse in 2027, with Sanjay Mehrotra, CEO of Micron Technology, stating that demand is already far exceeding supply. He even goes so far as to say that customers will likely pay "much higher prices" than they did this year.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207165</guid>
-			<link>https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/3182a0ac54d88/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/3182a0ac54d88/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
-			<title>Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place</title>
-			<description><p>Into the belly of the beast.The countdown continues! My weekly adventures through Ocarina of Time's dungeons have brought me to the last of the Child Link trilogy, and what a note to go out on.For those who missed the previous two editions, I'm revisiting one OoT dungeon each week, neatly leading me up to the grand finale on launch week for the Switch 2 remake.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place' target='_blank' rel='noopener'>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207067</guid>
-			<link>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/f9122ebac2a11/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/f9122ebac2a11/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
