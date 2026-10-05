@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 04 Oct 2026 20:40:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2026 03:09:59 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 04 Oct 2026 22:00:00 GMT</pubDate>
+			<title>"Let The Heroic Games Begin" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99</title>
+			<description><p>Reminder: The 57th cup has arrived.:Fire Emblem: Fortune's Weave recently arrived exclusively on the Switch 2, and to celebrate, Nintendo's battle royale Tetris 99 will be hosting a special in-game event.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-206936</guid>
+			<link>https://www.nintendolife.com/news/2026/10/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/d0d44b51f0ff7/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/d0d44b51f0ff7/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 04 Oct 2026 14:25:00 GMT</pubDate>
 			<title>Sonic Is Getting An Extremely Expensive And Rare Porcelain Statue</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/a7b06fd7c158d/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/a7b06fd7c158d/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 02 Oct 2026 03:55:00 GMT</pubDate>
-			<title>007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More</title>
-			<description><p>The Switch 2 port arrives next March.Although the Switch 2 port of 007 First Light has been delayed until next year, IO Interactive is still pushing out new content for the game on other platforms.With this mind, this week it's launched "extended operations free DLC", which comes with new missions, a photo mode, new game+, new weapons, outfits and more. When the Switch 2 version arrives in March 2027, all of this additional content should be available.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207123</guid>
-			<link>https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/2ef0beade345d/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/2ef0beade345d/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
