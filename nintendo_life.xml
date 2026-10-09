@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Thu, 08 Oct 2026 22:40:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Oct 2026 03:45:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Fri, 09 Oct 2026 02:30:00 GMT</pubDate>
+			<title>Best Buy To Offer Additional Switch 2 Zelda Units In-Store At Midnight Launch</title>
+			<description><p>Available in limited supply.If you've been unable to secure a Zelda-themed Switch 2 or Pro Controller and happen to live in the US, Best Buy will be offering limited stock at its Ocarina of Time midnight launch.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207425</guid>
+			<link>https://www.nintendolife.com/news/2026/10/best-buy-to-offer-additional-switch-2-zelda-units-in-store-at-midnight-launch</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/251d9bedc8c3c/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/251d9bedc8c3c/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Fri, 09 Oct 2026 00:45:00 GMT</pubDate>
+			<title>Witcher 3 Remastered Switch 2 Update To Improve "Image Clarity And Sharpness"</title>
+			<description><p>Good news, Witchers.Last week, CD Projekt Red released The Witcher 3 Remastered on multiple platforms, including the Switch 2. The developer has now provided an update in its latest set of patch notes about what exactly is in the works for the Switch 2 version of the game.The plan is to introduce the same "global changes" as other platforms, while also improving some Switch 2-specific aspects. Here's the rundown:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207423</guid>
+			<link>https://www.nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/b81eda45a5550/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/b81eda45a5550/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Thu, 08 Oct 2026 17:45:00 GMT</pubDate>
 			<title>Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/pokemon-pokopias-new-mystery-gift-distribution-is-now-available</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/d4adeba8234f9/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/d4adeba8234f9/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Wed, 07 Oct 2026 04:30:00 GMT</pubDate>
-			<title>Pokémon HOME FireRed &amp; LeafGreen Compatibility Update Now Live (Version 4.1.0)</title>
-			<description><p>Update today, trainers.Trainers have been waiting for a few months, and now The Pokémon Company has finally rolled out the Pokémon HOME update, adding support for Pokémon FireRed and LeafGreen.This bumps the app up to Version 4.1.0, and once you've linked the version of your choice (or both), you'll be able to transfer Pokémon to HOME and then bring them to other Pokémon games. Here's how this update works, according to an official description from The Pokémon Company:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207308</guid>
-			<link>https://www.nintendolife.com/news/2026/10/pokemon-home-firered-and-leafgreen-compatibility-update-now-live-version-4-1-0</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/cf1e0ed21220b/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/cf1e0ed21220b/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Wed, 07 Oct 2026 03:15:00 GMT</pubDate>
-			<title>Sega Responds To Sonic's Wild Start On Discord</title>
-			<description><p>It was fairly wholesome for the rest of the day.If you didn't catch the official announcement, Sega this week launched an official Sonic the Hedgehog Discord server.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207307</guid>
-			<link>https://www.nintendolife.com/news/2026/10/sega-responds-to-sonics-wild-start-on-discord</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/6c63268bb7f58/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/6c63268bb7f58/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
