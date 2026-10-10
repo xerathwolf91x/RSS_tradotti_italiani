@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Fri, 09 Oct 2026 22:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 10 Oct 2026 03:30:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 10 Oct 2026 01:45:00 GMT</pubDate>
+			<title>Video: Dragon's Dogma 2 Side-By-Side Graphics Comparison (Switch 2 &amp; PS5)</title>
+			<description><p>Including a look at frame gen toggle.Dragon's Dogma 2: Dark Arisen arrived on the Switch 2 this week, and if you're curious to see how it compares to its PS5 counterpart, YouTube channel ElAnalistaDeBits has now released a side-by-side graphics comparison.Firstly, players can apparently expect an upscaled resolution of 1080p in handheld and 1440p in docked mode. As for the game's performance, it hovers around 40fps, and if you toggle "on" frame generation, you'll experience the equivalent of 60fps.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207471</guid>
+			<link>https://www.nintendolife.com/news/2026/10/video-dragons-dogma-2-side-by-side-graphics-comparison-switch-2-and-ps5</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/19ea570ba76aa/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/19ea570ba76aa/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Fri, 09 Oct 2026 23:55:00 GMT</pubDate>
+			<title>Sonic Racing: CrossWorlds "Year Two" Roadmap Revealed - Major Free Updates, New Collabs And Much More</title>
+			<description><p>Return to the track this November.Sega has officially revealed "Year Two" of Sonic Racing: CrossWorlds will get underway on 3rd November 2026.As part of this, players can expect "major day one updates", more free characters and Season Pass Two. Here's the rundown of what's on the way, and you can see the full showcase in the video above.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207470</guid>
+			<link>https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-two-roadmap-revealed-major-free-updates-new-collabs-and-much-more</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/5a88a48cd3c89/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/5a88a48cd3c89/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Fri, 09 Oct 2026 17:00:00 GMT</pubDate>
 			<title>Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/47213273b4dd2/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/47213273b4dd2/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 08 Oct 2026 13:30:00 GMT</pubDate>
-			<title>Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer</title>
-			<description><p>Start the warm-up.With Nintendo Switch Sports Resort right around the corner, Nintendo has released a seven-minute overview trailer to showcase all of the exciting things that await on Wuhu Island.Aside from introducing the game's 12 sports (many of which will be familiar to anyone who played the last series entry), the trailer also showcases a bunch of the game's single-player content, including simpler game modes, Island Crown challenges, free roam collectibles and more.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207390</guid>
-			<link>https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-looks-like-a-game-night-delight-in-new-overview-trailer</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/c1846772c43e4/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/c1846772c43e4/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
-			<title>Marvel Cosmic Invasion's New DLC Will Build The Hype For 'Doomsday' Next Month</title>
-			<description><p>New characters, new game modes.Dotemu and Tribute Games teased their upcoming Doctor Doom-focused Marvel Cosmic Invasion DLC a few months back, and today at New York Comic Con, the teams announced when we can expect to play it.'The Siege of Castle Doom' expansion will be available on 10th November, adding two new playable characters into the mix and a brand-new game mode.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207325</guid>
-			<link>https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/3bf3509c030c8/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/3bf3509c030c8/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
