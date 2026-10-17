@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 17 Oct 2026 09:55:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Oct 2026 14:40:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 17 Oct 2026 13:00:00 GMT</pubDate>
+			<title>Countdown: Zelda: Ocarina Of Time Dungeon Crawl #5 - This One's Fire, Bro</title>
+			<description><p>Hammer time.As we tiptoe ever closer to the Ocarina of Time Switch 2 release date, my playthrough of the N64 original continues. Indeed, this week tips me past the halfway point, so there's no turning back.If you missed weeks one through four, I'm revisiting OoT, one dungeon a week, and sharing all the things I loved (and the things I didn't) on my replay.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro' target='_blank' rel='noopener'>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207543</guid>
+			<link>https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-5-this-ones-fire-bro</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/781dc8909e3f5/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/781dc8909e3f5/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
+			<title>Call Of Duty On Switch 2 Has Two Different Upscaling Options</title>
+			<description><p>Here's an early explainer on the difference.Our impressions of Call of Duty: Modern Warfare 4's campaign went live yesterday alongside early access for anyone who pre-ordered the game. The full launch comes on Friday 23rd October, but buying now unlocks access to the full campaign before the multiplayer modes.As you may know if you've played the Switch 2 version already, buried in the Graphics settings are two different upscaling options. One is Nvidia's AI-powered DLSS upscaler, and the other is Infinity Ward's in-house anti-aliasing solution, labelled "Filmic SMAA T2X".Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-207790</guid>
+			<link>https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/baa08b9ef12ee/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/baa08b9ef12ee/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
 			<title>Talking Point: What Are You Playing This Weekend? (17th October)</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/ca1179b93fbb0/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/ca1179b93fbb0/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 15 Oct 2026 15:05:00 GMT</pubDate>
-			<title>Feature: "I Lost My Mind" - Abby Trott On Singing The Smash Bros. Theme &amp; Playing A Belmont In Castlevania</title>
-			<description><p>"It's one of the most special jobs that I've ever done".If you're keeping an eye out for our Castlevania: Belmont's Curse review, we're working on it. In the meantime, Ollie recently had the chance to speak to the voice of Rose herself...Since entering the voice acting scene in 2015, Abby Trott has been making huge waves in the animation and video game industries.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania' target='_blank' rel='noopener'>https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207558</guid>
-			<link>https://www.nintendolife.com/features/i-lost-my-mind-abby-trott-on-singing-the-smash-bros-theme-and-playing-a-belmont-in-castlevania</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/4d5b74ac17da6/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/4d5b74ac17da6/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
-			<title>Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start</title>
-			<description><p>Taking the Mickey.Famitsu has shared the latest look at the Japanese physical gaming charts, and there's another newbie on the podium.Despite not even reaching the podium in the UK, Kingdom Hearts Collection  nabbed the top spot in Japan, with just 23,411 units to its name. Not all that many sales for a debut, but it was a pretty quiet week out there, with Rhythm Heaven Groove landing in second and last week's champ, Ace Combat 8: Wings of Theve flying into third.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207703</guid>
-			<link>https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/1866ff454bbcc/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/1866ff454bbcc/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
