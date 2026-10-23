@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Fri, 23 Oct 2026 10:40:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 16:05:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Fri, 23 Oct 2026 12:30:00 GMT</pubDate>
+			<title>Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award</title>
+			<description><p>Onward and upward!Adding to what is surely the most stacked roster of lifetime achievements, Shigeru Miyamoto is set to be awarded the prestigious Order of Culture award next month.The award, which first began way back in the 1930s, will be given by the Emperor of Japan on the nation's Culture Day (3rd November), and is awarded to those who have gone above and beyond in their contributions to Japan's art, literature, tech or science scenes.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208056</guid>
+			<link>https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/7d39bccd81154/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/7d39bccd81154/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+			<title>Gallery: iam8bit's Sonic Legacy Cartridges Are Stunning, But Are They Worth The Money?</title>
+			<description><p>For a select few, potentially.When iam8bit announced its Legacy Cartridge Collection for Sonic and Sonic 2 on Sega Genesis a few months back, it's safe to say that most people were taken aback by the price. Available via iam8bit's official store page, each cartridge — complete with authentic case, instruction manual, and poster — is priced at $99.99.That's a lot. Certainly a hefty chunk more than both games cost together digitally on Switch. Hell, you can pick up Sonic Origins Plus for 20 quid these days. So no, for the Average Joe who just wants to play these games in whichever manner is most convenient, these are probably not worth the money.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208036</guid>
+			<link>https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/35e2ba772ff6b/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/35e2ba772ff6b/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
 			<title>PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/e9d128dd00b16/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/e9d128dd00b16/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
-			<title>Review: JSAUX 6-In-1 Gaming Dock For Switch 2 - Attractive Enough, But No Replacement For The Real Deal</title>
-			<description><p>Wibble-wobble.At a glance, JSAUX’s 6-in-1 Dock for the Switch 2 is a compelling piece of kit.In addition to docking your console for TV mode, it also contains four slots to charge Joy-Con, along with space to charge your Pro Controller. With a foldable design, it makes for a handy travel companion, and the slick display screen is a neat little touch that will no doubt draw a few eyes. There are, however, a few glaring issues that hold it back.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal' target='_blank' rel='noopener'>https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207886</guid>
-			<link>https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/5e3be3cca5552/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/5e3be3cca5552/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Wed, 21 Oct 2026 14:15:00 GMT</pubDate>
-			<title>A Permanent Pokémon Store Is Finally Coming To London</title>
-			<description><p>The first of "several" outside Asia.After years of us leaving the pop-up shop at the European International Championships and wondering, "why isn't this a permanent thing?", it seems our wishes have finally been answered.The Pokémon Company has today announced that a "permanent, physical Pokémon store" is set to open in London. The store (not referred to as a 'Pokémon Center' in TPC's official statement, interestingly) will open by 2029, and will offer "a variety of exclusive merchandise and one-of-a-kind experiences for Trainers of all ages".Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207946</guid>
-			<link>https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/efcf73162fc93/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/efcf73162fc93/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
