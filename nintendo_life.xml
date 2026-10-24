@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 24 Oct 2026 15:05:01 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 Oct 2026 20:00:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
+			<title>PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live</title>
+			<description><p>Get downloading.If you're playing Call of Duty: Modern Warfare 4 on Switch 2 this weekend, you might need to update the game since your last session.Activision hasn't shared any official notice about this at the time of writing, but a new patch for this version of the title has now gone live. Players are reporting this update requires a download of around 30gb. The size of this update has seemingly surprised some soldiers on Switch 2, but sizable patches like this are quite common for the Call of Duty series.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208092</guid>
+			<link>https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/39d66f7a3e8d1/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/39d66f7a3e8d1/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
 			<title>Feature: 15 Years Ago, 'Return To Dream Land' Ushered In Kirby's Golden Era</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/287a57f87dc7c/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/287a57f87dc7c/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 22 Oct 2026 10:45:00 GMT</pubDate>
-			<title>Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage</title>
-			<description><p>Sleep, HOME and Champions all went down yesterday.You may have read yesterday about the cybersecurity alert that hit sites and apps around the world after two vulnerabilities were found in the popular programming language, PHP. The Pokémon Company were one of the many teams hit by the outage, with Pokémon HOME, Sleep and Champions all going offline yesterday without an end time in sight. Well, fortunately, they have started to come back.As shared on the apps' official social media accounts, it seems that TPC is now on top of the issue and is in the process of restoring functionality. Champions was the first to come back online at around 3am BST this morning, followed by HOME a few hours later. Pokémon Sleep was a little later to join the party, but ended its maintenance around 10am BST.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-207983</guid>
-			<link>https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/0080562a5553b/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/0080562a5553b/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
