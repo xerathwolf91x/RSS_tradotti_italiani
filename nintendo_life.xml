@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Tue, 27 Oct 2026 17:00:01 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Oct 2026 21:35:00 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Tue, 27 Oct 2026 18:00:00 GMT</pubDate>
+			<title>Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories</title>
+			<description><p>Prelude of Light.At the time of writing, we're just nine days from one of the most anticipated remakes ever released. Ocarina of Time holds a special place in many a gamer's heart - and that goes for the vast majority of us reading (and writing on) a site called Nintendo Life.A couple of weeks ago we asked how you first encountered the game, whether you were there on N64 back in 1998 or caught up with Zelda's first foray into the third dimension at another time in the decades since.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208171</guid>
+			<link>https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/4c26ff313848b/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/4c26ff313848b/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+			<title>Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?</title>
+			<description><p>It's an Indie World, we're just living in it.What's that? Your backlog is already looking too long and you haven't even added Zelda: Ocarina of Time to it yet? Tough luck! An Indie World Showcase is right around the corner and you know we're going to leave with our wishlists sufficiently beefed up.The big show kicks off tomorrow (28th October) at 2pm GMT / 3pm CET / 7am PT / 10am ET, and while it only stands at around 15 minutes in length, we're sure there will be plenty of indie goodness to revel in.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see' target='_blank' rel='noopener'>https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208204</guid>
+			<link>https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/2c88cc0c0db9a/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/2c88cc0c0db9a/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
 			<title>Poll: What Review Score Would You Give Nintendo Switch Sports Resort?</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/features/30-years-later-im-finally-learning-to-play-the-ocarina-and-you-should-too</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/0c97032dbb6ec/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/0c97032dbb6ec/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Sun, 25 Oct 2026 10:00:00 GMT</pubDate>
-			<title>Feature: Box Art Brawl - Duel: Avenging Spirit (Game Boy)</title>
-			<description><p>Spirits, Assemble.We are back with another Box Art Brawl!Last time, we took a look at a head-to-head match-up for Metal Slug Advance — celebrating its arrival on the NSO GBA library — and it was yet another one-sided affair. North America and Europe took a commanding win with 73% of the vote, leaving the Japanese variant with the remaining 27%.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy' target='_blank' rel='noopener'>https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208042</guid>
-			<link>https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/6832d6ebefd54/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/6832d6ebefd54/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Sun, 25 Oct 2026 09:00:00 GMT</pubDate>
-			<title>"Forward Now, Into Oblivion's Inky Embrace" - Darkest Dungeon II Now Has A Switch 2 Edition</title>
-			<description><p>A paid upgrade is also available.A lot of Switch games have been getting Switch 2 Editions recently, and the latest one is for the roguelike role-playing title, Darkest Dungeon 2.It's priced at $42.98 / £36.24, or if you own the existing version on Switch, you can get the upgrade pack for just $2.99 / £2.24 (or your regional equivalent). The Switch version of the title is also currently on sale in select locations.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208097</guid>
-			<link>https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/9303f13453b74/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/9303f13453b74/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
