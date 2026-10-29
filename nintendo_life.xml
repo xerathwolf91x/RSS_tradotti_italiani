@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Wed, 28 Oct 2026 22:00:01 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Oct 2026 03:35:03 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Thu, 29 Oct 2026 02:30:00 GMT</pubDate>
+			<title>Taito Milestones 5 Announced For Switch, Here Are The Games Included</title>
+			<description><p>Developed in collaboration with Hamster Corp.Taito is back with another retro collection of games! Taito Milestones 5 for the Switch will be launching in Japan on 28th January 2027 for 5,720 yen."Featuring 10 diverse titles from Taito's rich catalog spanning 1978–1990, including the social phenomenon "Space Invaders" and the legendary three-screen version "Sagaia"! Physical package reservations start today!"Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208296</guid>
+			<link>https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/1ce6bdcacfb60/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/1ce6bdcacfb60/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Thu, 29 Oct 2026 01:30:00 GMT</pubDate>
+			<title>Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release</title>
+			<description><p>The retailer reportedly "oversold" orders.The Zelda-themed Switch 2 is out this week, and Walmart has reportedly cancelled some pre-orders at the last minute.As highlighted by Kotaku, some buyers have apparently received a message from Walmart notifying them that their pre-order has been cancelled as the item is now out of stock. They won't be charged, but this information was only shared a day before the expected arrival, so they're no longer getting a system.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208295</guid>
+			<link>https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/d43705266c429/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/d43705266c429/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
 			<title>Feature: 4 Things You Need to Know About Cities: Skylines - Expanded Edition on Nintendo Switch 2</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/ee9e465608a10/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/ee9e465608a10/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Tue, 27 Oct 2026 03:30:00 GMT</pubDate>
-			<title>Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes</title>
-			<description><p>Adjustments, fixes and more.Earlier this month, Capcom mentioned how it was currently working on an update for the Switch 2 version of Dragon's Dogma 2: Dark Arisen, and it's now officially live.It comes loaded with adjustments and fixes addressing issues with vocations, pawns, enemies and much more. So if you've encountered any bugs in the Nintendo version of the game, this latest update will hopefully help. Here's the full rundown via Capcom's official Dragon's Dogma 2 website:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208167</guid>
-			<link>https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/31d3a048a2e32/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/31d3a048a2e32/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Tue, 27 Oct 2026 02:55:00 GMT</pubDate>
-			<title>Capcom Reveals Another Robot Master For Mega Man: Dual Override</title>
-			<description><p>Meet the "robot oil manager".Capcom has been building excitement for Mega Man: Dual Override with new details and gameplay footage.Now, it's shared some footage of the Robot Master, Tank Man. As highlighted by Rockman Corner, this news was shared last week at Capcom's Paris Games Week Panel. It also gives us a brief look at his stage, which shows off a volcanic theme.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208166</guid>
-			<link>https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/0a108dcfc6de3/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/0a108dcfc6de3/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
