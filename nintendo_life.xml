@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 01 Nov 2026 12:20:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 01 Nov 2026 21:30:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 01 Nov 2026 17:00:00 GMT</pubDate>
+			<title>Watch: Nintendo Treehouse Plays Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy</title>
+			<description><p>A special broadcast timed in with Pikmin Day.Apart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.Its airs later today on YouTube and will give fans a better look at this version of the game, and what you can expect before you jump into it on 12th November 2026. Here are the times for the upcoming Treehouse Direct:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208433</guid>
+			<link>https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/012d5ee2915fd/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/012d5ee2915fd/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sun, 01 Nov 2026 14:00:00 GMT</pubDate>
+			<title>Guide: Upcoming Nintendo Switch 2 Games &amp; Accessories For November &amp; December 2026</title>
+			<description><p>It's nearly OoT.As the fog on the moors begins to clear after Halloween, we head into the month of November with the biggest game of the year on the horizon. Not that one. That one.Yes, Nintendo gamers will have their eyes on the imminent return of a little green-garbed boy and his fairy this month, although it's worth pointing out some of the other big games coming to Switches 1 and 2 after Ocarina of Time drops on the 5th.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026' target='_blank' rel='noopener'>https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208306</guid>
+			<link>https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/940d0c7180224/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/940d0c7180224/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 01 Nov 2026 10:00:00 GMT</pubDate>
 			<title>Feature: Box Art Brawl - Duel: Revenge Of The 'Gator</title>
@@ -35,15 +53,6 @@
 			<link>https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/fa666ebd7149e/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/fa666ebd7149e/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Sun, 01 Nov 2026 06:45:00 GMT</pubDate>
-			<title>Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy</title>
-			<description><p>A special broadcast timed in with Pikmin Day.Apart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208433</guid>
-			<link>https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/012d5ee2915fd/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/012d5ee2915fd/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 		<item>
 			<pubDate>Sun, 01 Nov 2026 05:45:00 GMT</pubDate>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/ece36bb4e6507/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/ece36bb4e6507/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 29 Oct 2026 16:15:00 GMT</pubDate>
-			<title>Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon</title>
-			<description><p>Rowlett McDowlett.Brace yourselves, folks, because it looks like Pokémon cards will soon be returning to McDonald's Happy Meals in the US, and that has spelt trouble in the past (thanks for the heads up, IGN).As reported by PokéBeach, a new set of TCG tie-ins will be available from the Big M between 5th November and 9th December, with 15 cards included in the collection. As ever, the Happy Meal bonuses will consist of a four-card pack, containing three normal cards and one holo.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-206905</guid>
-			<link>https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/25bb7216fbbfa/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/25bb7216fbbfa/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
