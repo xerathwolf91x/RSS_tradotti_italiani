@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 01 Nov 2026 21:30:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Nov 2026 03:30:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Mon, 02 Nov 2026 03:30:00 GMT</pubDate>
+			<title>HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2</title>
+			<description><p>The free-to-play title launches in 2027.HoYoverse, the company known for games like Genshin Impact and Zenless Zone Zero, has announced it's bringing the cosy free-to-play galactic life sim Petit Planet to the Switch 2 in 2027.HoYoverse shared this news about the Nintendo version of the game at the end of its latest "pre-launch special program" broadcast. Petit Planet is launching for other platforms on 4th December 2026.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208441</guid>
+			<link>https://www.nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/6a092d6cb4101/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/6a092d6cb4101/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 01 Nov 2026 17:00:00 GMT</pubDate>
 			<title>Watch: Nintendo Treehouse Plays Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/7190fd3355c15/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/7190fd3355c15/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 30 Oct 2026 01:30:00 GMT</pubDate>
-			<title>Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away</title>
-			<description><p>He also did voice work for video games.There's some very sad news coming out of the acting world this week about the passing of the legendary British actor Sir Patrick Stewart. He was 86 years old.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208364</guid>
-			<link>https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/ece36bb4e6507/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/ece36bb4e6507/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
