@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sat, 07 Nov 2026 03:50:01 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 07 Nov 2026 12:05:01 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,24 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sat, 07 Nov 2026 10:00:00 GMT</pubDate>
+			<title>Talking Point: What Are You Playing This Weekend? (7th November)</title>
+			<description><p>Epona friend.HYAAH, HUHH, HUP, HYAAH *coughing and splutting* Sorry about that, everyone. Welcome to another edition of What Are You Playing!Just in case you somehow missed it, it was Zelda week this week as Ocarina of Time finally landed on Switch 2! The ensuing Ask the Developer interviews revealed the game's dev team, Aonuma's reasons for returning to it, Water Temple tweaks and more. There was also a wild midnight launch event in London, Metascore madness, new gameplay footage and more. In short, a lot of Zelda.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november' target='_blank' rel='noopener'>https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208736</guid>
+			<link>https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/c84e6ce8ff536/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/c84e6ce8ff536/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sat, 07 Nov 2026 05:00:00 GMT</pubDate>
+			<title>Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery</title>
+			<description><p>He'll be back at it very soon.Nintendo legend and creative mastermind Shigeru Miyamoto is almost 74, and while he has taken a step back in recent years, he's still quite active within the Japanese video game company.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-208768</guid>
+			<link>https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/dc139ad057bb9/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/dc139ad057bb9/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sat, 07 Nov 2026 00:30:00 GMT</pubDate>
 			<title>Zelda Producer Eiji Aonuma Talks About The Benefits Of "Long-Term-Tenured Staff" At Nintendo</title>
@@ -179,24 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/11/ill-leave-it-to-your-imagination-aonumas-keeping-quiet-on-bombchu-girls-relationship-status</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/82727b230da32/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/82727b230da32/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 05 Nov 2026 13:00:00 GMT</pubDate>
-			<title>Feature: "I Will Have Been Here For 30 Hours" - London's Midnight Zelda Launch Was Wild</title>
-			<description><p>Song of Sleep."When it gets to midnight, I will have been here for 30 hours."That's what Sinaa, one of the people right at the very front of the queue for Zelda: Ocarina of Time's London midnight launch, told me last night.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild' target='_blank' rel='noopener'>https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208667</guid>
-			<link>https://www.nintendolife.com/features/i-will-have-been-here-for-30-hours-londons-midnight-zelda-launch-was-wild</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/d4548c9561175/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/d4548c9561175/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Thu, 05 Nov 2026 10:45:00 GMT</pubDate>
-			<title>Nintendo's Inventory Levels At A Record High As RAM Crisis Continues</title>
-			<description><p>Accumulate to mitigate.As part of its latest financial report, Nintendo has published the yen value of its inventory for the second quarter of FY2026/27, showing a record high as the company attempts to mitigate rising costs across the industry.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-208658</guid>
-			<link>https://www.nintendolife.com/news/2026/11/nintendos-inventory-levels-at-a-record-high-as-ram-crisis-continues</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/a38996304e638/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/a38996304e638/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
