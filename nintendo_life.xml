@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 15 Nov 2026 22:15:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Nov 2026 03:54:59 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -18,6 +18,15 @@
 			<height>128</height>
 		</image>
 		<ns0:link href="https://www.nintendolife.com/feeds/news" rel="self" type="application/rss+xml" />
+		<item>
+			<pubDate>Sun, 15 Nov 2026 23:55:00 GMT</pubDate>
+			<title>Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month</title>
+			<description><p>Alongside a bonus free update.Mojang hosted a surprise Minecraft Dungeons II broadcast at TwitchCon San Diego this year, and alongside this, it's announced the first paid DLC will be arriving very soon.The Humblers Awaken will launch on 1st December 2026 and brings a fresh adventure to the action-RPG with new quests, unexplored environments, colourful cosmetics and an expanded arsenal of gear. Here's a bit more about what you can expect:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-209138</guid>
+			<link>https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/06eab4d9f7ab6/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/06eab4d9f7ab6/large.jpg" medium="image" type="image/jpeg" />
+		</item>
 		<item>
 			<pubDate>Sun, 15 Nov 2026 10:00:00 GMT</pubDate>
 			<title>Poll: Which Dr. Mario &amp; Puzzle League Box Art Is The Best?</title>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/7bb185c8284db/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/7bb185c8284db/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 13 Nov 2026 01:55:00 GMT</pubDate>
-			<title>DOOM Developer id Software Confirms It's Working On A New Game</title>
-			<description><p>It's reportedly another DOOM game.id Software, the developer known for FPS hits such as DOOM and Quake, has confirmed it's got a new game in the pipeline.Alongside the Wolfenstein 3 announcement, Xbox CEO Asha Sharma revealed how id is also "working on its next game". id Software shared some additional information, confirming the project is led by Hugo Martin and is being developed by its teams located in Texas and Frankfurt.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-209066</guid>
-			<link>https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/23b2030833a6b/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/23b2030833a6b/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
