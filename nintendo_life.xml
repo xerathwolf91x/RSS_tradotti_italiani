@@ -5,7 +5,7 @@
 		<description />
 		<language>en</language>
 		<copyright>(c) 2026 Hookshot Media</copyright>
-		<lastBuildDate>Sun, 22 Nov 2026 22:55:05 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2026 04:50:02 GMT</lastBuildDate>
 		<docs>https://www.nintendolife.com/feeds</docs>
 		<generator>dgpCMS/1.0 https://hookshot.media</generator>
 		<webMaster>help@nintendolife.com (Nintendo Life)</webMaster>
@@ -53,6 +53,15 @@
 			<link>https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/8eedb914f197b/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/8eedb914f197b/large.jpg" medium="image" type="image/jpeg" />
+		</item>
+		<item>
+			<pubDate>Sun, 22 Nov 2026 04:00:00 GMT</pubDate>
+			<title>Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture</title>
+			<description><p>Reminder: The Fatal Fury movie antagonist is now available.:SNK's expansion of the Fatal Fury: City of the Wolves roster will continue with the release of Laocorn next week on 19th November 2026.Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture</a>.</small></p></description>
+			<guid isPermaLink="false">https://www.nintendolife.com/#article-209134</guid>
+			<link>https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture</link>
+			<ns1:thumbnail url="https://images.nintendolife.com/283e980586455/small.jpg" />
+			<ns1:content url="https://images.nintendolife.com/283e980586455/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 		<item>
 			<pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
@@ -188,15 +197,6 @@
 			<link>https://www.nintendolife.com/news/2026/11/call-of-duty-modern-warfare-4-tops-best-selling-games-in-october-us</link>
 			<ns1:thumbnail url="https://images.nintendolife.com/fa74e264a77de/small.jpg" />
 			<ns1:content url="https://images.nintendolife.com/fa74e264a77de/large.jpg" medium="image" type="image/jpeg" />
-		</item>
-		<item>
-			<pubDate>Fri, 20 Nov 2026 00:30:00 GMT</pubDate>
-			<title>LEGO City Undercover's Developer Is Teasing "Something"</title>
-			<description><p>Update:  It's a "massive" world map image.If you're itching to jump into a busy city filled with chaos, you might want to keep an eye on TT Games this week.The developer behind multiple LEGO video games is apparently teasing "something" related to LEGO City Undercover. Here's its response to a recent Warner Bros. Games social media post highlighting some LEGO City Undercover gameplay:Read the full article on nintendolife.com</p><br><br><div style='background-color: #f8f9fa; border-left: 4px solid #0073aa; padding: 12px 16px; margin: 15px 0;'><p style='margin: 0; font-weight: bold;'>📖 Vuoi approfondire questa notizia?</p><p style='margin: 5px 0 0 0;'>Leggi l'articolo integrale e tutti i dettagli direttamente sul sito di origine: <a href='https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something' target='_blank' rel='noopener noreferrer'><strong>Continua la lettura su Nintendo Life &amp;raquo;</strong></a></p></div><br><hr><p><small><strong>Trasparenza e rispetto delle fonti (AGCOM):</strong> Contenuto sintetizzato e tradotto automaticamente per la community italiana a scopo informativo. Fonte originale: <a href='https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something' target='_blank' rel='noopener'>https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something</a>.</small></p></description>
-			<guid isPermaLink="false">https://www.nintendolife.com/#article-209380</guid>
-			<link>https://www.nintendolife.com/news/2026/11/lego-city-undercovers-developer-is-teasing-something</link>
-			<ns1:thumbnail url="https://images.nintendolife.com/8bf2013d43a66/small.jpg" />
-			<ns1:content url="https://images.nintendolife.com/8bf2013d43a66/large.jpg" medium="image" type="image/jpeg" />
 		</item>
 	</channel>
 </rss>
